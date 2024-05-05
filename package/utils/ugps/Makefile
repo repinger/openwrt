@@ -10,7 +10,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=ugps
 PKG_RELEASE:=2
 
-PKG_SOURCE_URL=$(PROJECT_GIT)/project/ugps.git
+PKG_SOURCE_URL=https://github.com/openwrt/ugps.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_DATE:=2021-06-08
 PKG_SOURCE_VERSION:=5e88403fc0d39ae8a270d2c6c6e9c8a4d5232cf3

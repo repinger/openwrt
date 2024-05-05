@@ -10,7 +10,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=umdns
 PKG_RELEASE:=1
 
-PKG_SOURCE_URL=$(PROJECT_GIT)/project/mdnsd.git
+PKG_SOURCE_URL=https://github.com/openwrt/mdnsd.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_DATE:=2024-03-04
 PKG_SOURCE_VERSION:=7c6759792502fa45ac1e38aa5644f8cf8f290894

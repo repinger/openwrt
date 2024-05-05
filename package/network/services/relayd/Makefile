@@ -10,7 +10,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=relayd
 PKG_RELEASE:=1
 
-PKG_SOURCE_URL=$(PROJECT_GIT)/project/relayd.git
+PKG_SOURCE_URL=https://github.com/openwrt/relayd.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_DATE:=2023-01-28
 PKG_SOURCE_VERSION:=f646ba40489371e69f624f2dee2fc4e19ceec00e

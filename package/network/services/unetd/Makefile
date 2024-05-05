@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 
 PKG_NAME:=unetd
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL=$(PROJECT_GIT)/project/unetd.git
+PKG_SOURCE_URL=https://github.com/openwrt/unetd.git
 PKG_SOURCE_DATE:=2023-05-31
 PKG_SOURCE_VERSION:=7d3986b7a5a20b9af0dacd053b2657210385e7bb
 PKG_MIRROR_HASH:=07f0a4cbae3e80c6309bb8aa27fcef19fbc56093a9c7e426e0d527227af09429

@@ -10,7 +10,7 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=ustp
 PKG_RELEASE:=1
 
-PKG_SOURCE_URL=$(PROJECT_GIT)/project/ustp.git
+PKG_SOURCE_URL=https://github.com/openwrt/ustp.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_DATE:=2021-09-21
 PKG_SOURCE_VERSION:=462b3a491347e452c15220861949b1d6371fa59e

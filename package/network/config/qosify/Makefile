@@ -9,7 +9,7 @@ include $(TOPDIR)/rules.mk
 include $(INCLUDE_DIR)/kernel.mk
 
 PKG_NAME:=qosify
-PKG_SOURCE_URL=$(PROJECT_GIT)/project/qosify.git
+PKG_SOURCE_URL=https://github.com/openwrt/qosify.git
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_DATE:=2023-03-07
 PKG_SOURCE_VERSION:=9a47ea4b683dd845ec94534fcd82d3117c9ab313

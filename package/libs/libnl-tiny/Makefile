@@ -11,7 +11,7 @@ PKG_NAME:=libnl-tiny
 PKG_RELEASE:=1
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL=$(PROJECT_GIT)/project/libnl-tiny.git
+PKG_SOURCE_URL=https://github.com/openwrt/libnl-tiny.git
 PKG_SOURCE_DATE:=2023-07-27
 PKG_SOURCE_VERSION:=bc92a280186f9becc53c0f17e4e43cfbdeec7e7b
 PKG_MIRROR_HASH:=57c5ac75fdb4413e98e525bee7de419fc6cce5f23389581dafd9ffe22321224d
